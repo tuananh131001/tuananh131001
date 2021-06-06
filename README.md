@@ -1,6 +1,6 @@
 ### Hi there 👋
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=wi2liamalpha&show_icons=true&theme=highcontrast&hide=contribs)\n
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wi2liamalpha&repo=assignment2_onemanarmy&theme=dark)
+![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=wi2liamalpha&show_icons=true&theme=highcontrast&hide=contribs)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wi2liamalpha&repo=assignment2_onemanarmy&theme=highcontrast)
 <!--
 **wi2liamalpha/wi2liamalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
