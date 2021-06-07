@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=your-github-username&color=black)
+![](https://komarev.com/ghpvc/?username=wi2liamalpha&color=blue)
 ![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=wi2liamalpha&show_icons=true&theme=highcontrast&hide=contribs)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wi2liamalpha&repo=assignment2_onemanarmy&theme=highcontrast)
 <!--
