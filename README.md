@@ -1,5 +1,5 @@
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=wi2liamalpha&color=blue)
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=wi2liamalpha&show_icons=true&theme=highcontrast&hide=contribs)
+![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wi2liamalpha)]
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wi2liamalpha&repo=INTE2512_final&theme=highcontrast)
 <!--
 **wi2liamalpha/wi2liamalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
