@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=wi2liamalpha&color=blue)
+### G'day mates 👋 ![](https://komarev.com/ghpvc/?username=wi2liamalpha&color=blue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wi2liamalpha&theme=highcontrast&layout=compact)  
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wi2liamalpha&repo=INTE2512_final&theme=highcontrast)
 <!--
