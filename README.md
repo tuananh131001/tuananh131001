@@ -10,7 +10,7 @@ I'm William A1pha (Tuan Anh Nguyen) 😉, Software Engineering Student 👨🏻�
 ### Current Status Quo:
 
 - 💼 I’m pursuing a <strong>Software Engineering</strong>.
-- 🔭 I’m currently working on <strong>FinTech (NLP and DLT)</strong> and <strong>Algorithmic Trading</strong>
+- 🔭 I’m currently working on <strong>William-Bot</strong> 
 - 🌱 I’m currently learning <strong>JS</strong> and <strong>PHP</strong>
 - 🔍 I’m looking for career opportunities as a full-stack developer
 ### Tools I work upon : 🛠
