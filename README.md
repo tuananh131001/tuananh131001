@@ -29,5 +29,4 @@ I'm William A1pha (Tuan Anh Nguyen) 😉, Software Engineering Student 👨🏻�
 </a>
 
 ### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=wi2liamalpha&theme=dracula&color=B994E6&bg_color=2B2D3D" />
-
+![ Github activity graph](https://activity-graph.herokuapp.com/graph?username=wi2liamalpha&theme=react-dark)
