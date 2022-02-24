@@ -6,14 +6,14 @@ I'm William A1pha (Tuan Anh Nguyen) 😉, Software Engineering Student 👨🏻�
 
 ### How to reach me: 
 <a href="mailto: tuananh131001@gmail.com">
-<a href="https://www.linkedin.com/in/tu%E1%BA%A5n-anh-nguy%E1%BB%85n-2051281b4/"><img src="https://img.shields.io/badge/WilliamA1pha-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<a href="https://www.linkedin.com/in/tu%E1%BA%A5n-anh-nguy%E1%BB%85n-2051281b4/"><img src="https://img.shields.io/badge/WilliamA1pha-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
+  
 ### Current Status Quo:
-
 - 💼 I’m pursuing a <strong>Software Engineering</strong>.
 - 🔭 I’m currently working on <strong>William-Bot</strong> 
 - 🌱 I’m currently learning <strong>JS</strong> and <strong>PHP</strong>
 - 🔍 I’m looking for career opportunities as a full-stack developer
-### Tools I work upon : 🛠
+### Tools I work upon : 🛠  
 <img src="https://img.shields.io/badge/Java%20-%23E00033.svg?&style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">       <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> 
 
 ### Stats Overview : :cyclone:
