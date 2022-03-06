@@ -2,6 +2,7 @@
 
 I'm William A1pha (Tuan Anh Nguyen) 😉, Software Engineering Student 👨🏻‍💻 currently studies at RMIT University.
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Software+Engineering+Student;Year+Two;RMIT+University" /></p>
+
 ### How to reach me: 
 <a href="mailto: tuananh131001@gmail.com">
 <a href="https://www.linkedin.com/in/tu%E1%BA%A5n-anh-nguy%E1%BB%85n-2051281b4/"><img src="https://img.shields.io/badge/WilliamA1pha-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
