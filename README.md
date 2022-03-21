@@ -35,5 +35,4 @@ I'm William A1pha (Tuan Anh Nguyen) 😉, Software Engineering Student 👨🏻�
   </p>
  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=wi2liamalpha&theme=react-dark"/>
 <!--START_SECTION:waka-->
-  SHOW_OS
 <!--END_SECTION:waka-->
