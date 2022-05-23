@@ -11,7 +11,7 @@ I'm William A1pha (Tuan Anh Nguyen) 😉, Software Engineering Student 👨🏻�
   
 - 💼 I’m pursuing a <strong>Software Engineering</strong>.
 - 🔭 I’m currently working on <strong>William-Bot</strong> 
-- 🌱 I’m currently learning <strong>JS</strong> and <strong>PHP</strong>
+- 🌱 I’m currently learning <strong>React</strong> and <strong>Nodejs</strong>
 - 🔍 I’m looking for career opportunities as a full-stack developer
  <h2>Tools I work upon : 🛠</h2>
   
