@@ -73,6 +73,7 @@ I'm William A1pha (Tuan Anh Nguyen) 😉, Software Engineering Student 👨🏻�
 </a>
   </p>
  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=wi2liamalpha&theme=react-dark"/>
+  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2031%20mins-blue)
 
