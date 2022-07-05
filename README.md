@@ -60,20 +60,20 @@ I'm William A1pha (Tuan Anh Nguyen) 😉, Software Engineering Student 👨🏻�
 
   <h2>Stats Overview : :cyclone: </h2>
   <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wi2liamalpha&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=aura" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=wi2liamalpha&theme=dracula&no-bg=true&row=1"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuananh131001&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=aura" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=tuananh131001&theme=dracula&no-bg=true&row=1"/>
   </p>
 
   <h2>GitHub Highlights: :blossom:</h2>
   <p align="center">
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wi2liamalpha&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuananh131001&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
 <a href="">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=wi2liamalpha&theme=material-palenight"/>
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tuananh131001&theme=material-palenight"/>
 </a>
   </p>
- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=wi2liamalpha&theme=react-dark"/>
+ <img align="center" src="https://activity-graph.herokuapp.com/graph?username=tuananh131001&theme=react-dark"/>
   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2031%20mins-blue)
