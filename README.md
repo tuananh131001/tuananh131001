@@ -5,7 +5,7 @@ I'm William A1pha (Tuan Anh Nguyen) 😉, Software Engineering Student 👨🏻�
 
 ### How to reach me : :iphone:
 <a href="mailto: tuananh131001@gmail.com">
-<a href="https://www.linkedin.com/in/tu%E1%BA%A5n-anh-nguy%E1%BB%85n-2051281b4/"><img src="https://img.shields.io/badge/WilliamA1pha-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a href="http://discordapp.com/users/331413468202926081"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" ></a>  
+<a href="https://www.linkedin.com/in/tuananh131001/"><img src="https://img.shields.io/badge/WilliamA1pha-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a href="http://discordapp.com/users/331413468202926081"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" ></a>  
   
  <h2>Current Status Quo: :information_source:</h2>
   
