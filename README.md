@@ -81,6 +81,48 @@ I'm William A1pha (Tuan Anh Nguyen) 😉, Software Engineering Student 👨🏻�
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-606%20hrs%2053%20mins-blue)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.83% 
+🌆 Daytime    489 commits    █████████░░░░░░░░░░░░░░░░   38.84% 
+🌃 Evening    540 commits    ██████████░░░░░░░░░░░░░░░   42.89% 
+🌙 Night      81 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.43%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       198 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
+Tuesday      228 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.11% 
+Wednesday    281 commits    █████░░░░░░░░░░░░░░░░░░░░   22.32% 
+Thursday     141 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.2% 
+Friday       123 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.77% 
+Saturday     127 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.09% 
+Sunday       161 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.79%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -94,5 +136,5 @@ Python                   6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2022 18:39:37 UTC
+ Last Updated on 13/12/2022 18:39:05 UTC
 <!--END_SECTION:waka-->
