@@ -79,7 +79,7 @@ I'm William A1pha (Tuan Anh Nguyen) 😉, Software Engineering Student 👨🏻�
  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=tuananh131001&theme=react-dark"/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-606%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%205%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -110,16 +110,16 @@ Sunday       152 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               11 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Cardinalis-FE            11 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  11 mins             █████████████████████████   100.0%
 
 ```
 
@@ -136,5 +136,5 @@ Python                   6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2023 18:38:33 UTC
+ Last Updated on 06/01/2023 18:37:19 UTC
 <!--END_SECTION:waka-->
