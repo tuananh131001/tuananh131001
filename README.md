@@ -69,16 +69,16 @@ I'm William A1pha (Tuan Anh Nguyen) 😉, Software Engineering Student 👨🏻�
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
 
   <h2>Stats Overview : :cyclone: </h2>
-  <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuananh131001&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=aura" />
+<p align="center"><!--   
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuananh131001&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=aura" /> -->
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=tuananh131001&theme=dracula&no-bg=true&row=1"/>
   </p>
 
   <h2>GitHub Highlights: :blossom:</h2>
   <p align="center">
-<a href="">
+<!-- <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuananh131001&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
+</a> -->
 <a href="">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tuananh131001&theme=material-palenight"/>
 </a>
