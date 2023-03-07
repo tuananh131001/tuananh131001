@@ -86,7 +86,7 @@ I'm William A1pha (Tuan Anh Nguyen) 😉, Software Engineering Student 👨🏻�
  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=tuananh131001&theme=react-dark"/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2041%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -115,16 +115,19 @@ Sunday                   318 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Ruby                     9 mins              █████████████████████░░░░   85.24 % 
+TypeScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Ruby-Todolist            9 mins              █████████████████████░░░░   85.64 % 
+Priconne-Awesome         1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -140,5 +143,5 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/03/2023 18:39:11 UTC
+ Last Updated on 07/03/2023 18:38:39 UTC
 <!--END_SECTION:waka-->
