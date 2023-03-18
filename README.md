@@ -115,17 +115,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Ruby                     5 mins              ████████████████████░░░░░   79.31 % 
-Other                    1 min               █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Ruby-Todolist            6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -141,5 +140,5 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2023 18:35:14 UTC
+ Last Updated on 18/03/2023 18:33:48 UTC
 <!--END_SECTION:waka-->
