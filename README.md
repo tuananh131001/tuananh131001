@@ -11,7 +11,7 @@ I'm William A1pha (Tuan Anh Nguyen) 😉, Software Engineering Student 👨🏻�
   
 - 💼 I’m pursuing a <strong>Software Engineering | Full-Stack Developer</strong>.
 - 🔭 I’m currently working on <strong>Ruby</strong> 
-- 🌱 I’m currently learning <strong>Ruby</strong> and <strong>Hanami</strong>
+- 🌱 I’m currently learning <strong>Ruby</strong> and <strong>Rails</strong>
 - 🔍 I’m looking for career opportunities as a full-stack developer
  <h2>Tools I work upon : 🛠</h2>
   
