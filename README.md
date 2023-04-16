@@ -83,62 +83,6 @@ I'm William A1pha (Tuan Anh Nguyen) 😉, Software Engineering Student 👨🏻�
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tuananh131001&theme=material-palenight"/>
 </a>
   </p>
- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=tuananh131001&theme=react-dark"/>
-  
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2048%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     20 repos            ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-HTML                     10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-JavaScript               10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-```
-
-
-
-
- Last Updated on 18/03/2023 18:33:48 UTC
 <!--END_SECTION:waka-->
