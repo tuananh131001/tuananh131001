@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>G'day mates.</h1>
 
 I'm William A1pha (Tuan Anh Nguyen) 😉, Software Engineering Student 👨🏻‍💻 currently studies at RMIT University.
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Software+Engineering+Student;Year+Two;RMIT+University" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Software+Engineering+Student;Year+Four;RMIT+University" /></p>
 
 ### How to reach me : :iphone:
 <a href="mailto: tuananh131001@gmail.com">
