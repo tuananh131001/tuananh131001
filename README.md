@@ -74,7 +74,6 @@ I'm Anh NT (Tuan Anh Nguyen) 😉, Software Engineering Student 👨🏻‍💻 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tuananh131001&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=aura" /> -->
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=tuananh131001&theme=dracula&no-bg=true&row=1"/>
   </p>
-
   <h2>GitHub Highlights: :blossom:</h2>
   <p align="center">
 <!-- <a href="">
@@ -82,8 +81,12 @@ I'm Anh NT (Tuan Anh Nguyen) 😉, Software Engineering Student 👨🏻‍💻 
 </a> -->
 <a href="">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tuananh131001&theme=material-palenight"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/wi2liamalpha"/>
 </a>
   </p>
+
+  
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
