@@ -60,21 +60,8 @@ I'm Anh NT (Tuan Anh Nguyen) 😉, Software Engineering , @Raksul, @Josys
  ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
  ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
 
-  <h2>Stats Overview : :cyclone: </h2>
-<p align="center"><!--   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuananh131001&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=aura" /> -->
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=tuananh131001&theme=dracula&no-bg=true&row=1"/>
-  </p>
-  <h2>GitHub Highlights: :blossom:</h2>
-  <p align="center">
-<!-- <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuananh131001&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a> -->
-<a href="">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tuananh131001&theme=material-palenight"/>
-  <img align="center" src="https://leetcard.jacoblin.cool/wi2liamalpha"/>
-</a>
-  </p>
+
+ 
 
   
 
