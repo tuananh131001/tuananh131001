@@ -60,6 +60,8 @@ I'm Anh NT (Tuan Anh Nguyen) 😉, Software Engineering , @Raksul, @Josys
  ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
  ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuananh131001&size_weight=0.5&count_weight=0.5)
+
 
  
 
