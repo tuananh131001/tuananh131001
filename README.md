@@ -1,5 +1,3 @@
-✈️ I'm moving to https://codeberg.org/tuananh131001
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>G'day mates.</h1>
 
 I'm Anh NT (Tuan Anh Nguyen) 😉, Software Engineering , @Raksul
