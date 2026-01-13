@@ -12,7 +12,7 @@ I'm Anh NT (Tuan Anh Nguyen) 😉, Software Engineering , @Raksul
 - 💼 I’m pursuing a <strong>Software Engineering | Full-Stack Developer</strong>.
 - 🔭 I’m currently working on <strong>Ruby</strong> 
 - 🌱 I’m currently learning <strong>Ruby</strong> and <strong>Rails</strong>
-- 🔍 I’m looking for career opportunities as a full-stack developer
+- 🔍 My 5 years goal is to become Principal Engineer who guides large and complex projects and manages and large team
  <h2>Tools I work upon : 🛠</h2>
   
   ### Back-End
@@ -59,8 +59,9 @@ I'm Anh NT (Tuan Anh Nguyen) 😉, Software Engineering , @Raksul
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
  ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
  ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white)
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuananh131001&size_weight=0.5&count_weight=0.5)
+ 
+ ### Coding Performance
+ Check out my Github heatmap 😎
 
 
  
