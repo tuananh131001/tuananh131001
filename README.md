@@ -19,14 +19,13 @@ I'm Anh NT (Tuan Anh Nguyen) 😉, Software Engineering , @Raksul
  <h2>Current Status Quo: :information_source:</h2>
   
 - 💼 I’m pursuing a <strong>Software Engineering | Full-Stack Developer</strong>.
-- 🔭 I’m currently working on <strong>Ruby</strong> 
-- 🌱 I’m currently learning <strong>Ruby</strong> and <strong>Rails</strong>
 - 🔍 My 5 years goal is to become Principal Engineer who guides large and complex projects and manages and large team
 
  <h2>Tools I love to work upon : 🛠</h2>
+  
   ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
   ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
  ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
  
- ### Coding Performance
+ ## Coding Performance
  Check out my Github heatmap 😎
