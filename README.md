@@ -30,4 +30,5 @@ I'm Anh NT (Tuan Anh Nguyen) 😉, Software Engineering , @Raksul
  ## Coding Performance
  Check out my Github heatmap 😎
 
-- Written by human 👨‍💻
+
+> Written by human 👨‍💻
